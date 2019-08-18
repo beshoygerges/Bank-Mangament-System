@@ -8,7 +8,9 @@ public class BankHostApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BankHostApplication.class, args);
-		System.out.println("besho 3");
+
+		System.out.println("besho 1");
+
 	}
 
 }
